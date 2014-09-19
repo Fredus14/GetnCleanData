@@ -14,7 +14,7 @@ This repository was created as part of a Coursera couse project, Getting and Cle
  - CodeBook.md - The codebook describes the variables, the data and transformations
 
 
-#Script overview
+##Script overview
 ##run_analysis.R
 
 This code was created to achieve the following objectives
