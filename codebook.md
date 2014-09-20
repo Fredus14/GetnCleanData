@@ -1,5 +1,5 @@
-<p><markdown>
-#Codebook#
+Codebook
+=============
 ##The original data set
 The original data set can be download from [here][1] and has been originally extracted from the [UCI Machine Learning Repository][2]. The data set is split into training and test sets (70% and 30%, respectively) where each partition is also split into three files that contain:
 
@@ -77,6 +77,3 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
  - tBodyAccJerkMean -> tBodyAccelerationJerkMean
  - tBodyGyroMean -> tBodyAngularVelocityMean 
  - tBodyGyroJerkMean -> tBodyAngularVelocityJerkMean
-
-
-</markdown></p>
